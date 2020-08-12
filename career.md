@@ -6,7 +6,9 @@
 
 - 📌투자플랫폼: 2020년 2월 ~
 
-    🔗링크: [https://startup.effectmall.com/user/login](https://startup.effectmall.com/user/login)
+    🔗링크1: [https://startup.gitbal.io](https://startup.gitbal.io)
+    
+    🔗링크2: [https://vc.gitbal.io](https://vc.gitbal.io)
 
     🎓사용기술: Java, Kotlin, Spring, Spring Cloud, JPA, JavaScirpt, React, MariaDB, docker
 
@@ -18,6 +20,7 @@
     - Docker Swarm으로  서버 구축
     - Jenkins로 CI 구축
     - 풀스택 개발: Java, Kotlin으로 백엔드, React로 프론트
+    
 - 📌충북 테크노파크: 2019년 11월 ~ 2020년 2월
 
     🔗링크: [http://cbtp.effectmall.com/](http://cbtp.effectmall.com/)
@@ -28,6 +31,7 @@
 
     - 프로젝트 설정, DB 설계, 인프라 구성, 풀스택 개발까지 맡아서 했습니다.
     - 백엔드는 Apollo Graphql, ORM은 Sequelize 로 구성했고 프론트는 React 기반으로 작성했습니다.
+    
 - 📌MP SDK: 2018년 1월 ~ 2019년 4월
 
     사용기술: Java, Kotlin, Android, Objective-C, Swift, C#, Unity, Firebase
@@ -70,7 +74,7 @@
     - 상품리스트, 상세, 구매, 할인, 구매리스트, 쿠폰, 결제, 장바구니, 제한(구매수량)
     - 이미지
 
-        ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/cabal_gsp_shop.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/cabal_gsp_shop.png)
+        ![images/cabal_gsp_shop.png](images/cabal_gsp_shop.png)
 
 - 📌CABAL GSP HOME: 2016년 7월 ~ 2017년 12월
 
@@ -290,32 +294,32 @@
     - 지분구조
         - 이미지
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_company2.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_company2.png)
+            ![images/effect_company2.png](images/effect_company2.png)
 
     - 관계정보
         - 이미지
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_company3.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_company3.png)
+            ![images/effect_company3.png](images/effect_company3.png)
 
     - 북마크
     - 기업간 매칭(신규사업, 매출처, 매입처)
         - 이미지
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_metch2.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_metch2.png)
+            ![images/effect_metch2.png](images/effect_metch2.png)
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_match.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_match.png)
+            ![images/effect_match.png](images/effect_match.png)
 
     - 투자 플랫폼(초기버전), 투자사의 요청으로 개발되다가 아예 이것만 따로 프로젝트가 분리되었다.
         - 이미지
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_ir.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_ir.png)
+            images/effect_ir.png](images/effect_ir.png)
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_ir_5.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_ir_5.png)
+            ![images/effect_ir_5.png](images/effect_ir_5.png)
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_ir_list.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_ir_list.png)
+            ![images/effect_ir_list.png](images/effect_ir_list.png)
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_ir2.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_ir2.png)
+            ![images/effect_ir2.png](images/effect_ir2.png)
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_vc.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_vc.png)
+            ![images/effect_vc.png](images/effect_vc.png)
 
-            ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_vc2.png](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%202edbe62a2f294f77b21a45e23dbac841/effect_vc2.png)
+            ![images/effect_vc2.png](images/effect_vc2.png)
