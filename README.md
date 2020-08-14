@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[경력](https://github.com/HyeongJinK/HyeongJinK/blob/master/career.md)
+
 
 <!--
+[경력](https://github.com/HyeongJinK/HyeongJinK/blob/master/career.md)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnapasun)](https://github.com/napasun)
 **napasun/napasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
