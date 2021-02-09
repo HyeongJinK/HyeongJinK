@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[java](https://img.shields.io/badge/java-%EC%9A%B0%EC%99%95-red?logo=java)
+![java](https://img.shields.io/badge/java-%EC%9A%B0%EC%99%95-red?logo=java)
