@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [깃블로그](https://hyeongjink.github.io/)
+[티스토리 블로그](https://napasun-programming.tistory.com/)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeongJinK&layout=compact&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=HyeongJinK&show_icons=true&theme=dracula)
