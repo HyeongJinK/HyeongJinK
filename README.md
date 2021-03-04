@@ -5,7 +5,7 @@
 <!--
 [경력](https://github.com/HyeongJinK/HyeongJinK/blob/master/career.md)
 
-https://hyeongjink.github.io/
+[깃블로그](https://hyeongjink.github.io/)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnapasun)](https://github.com/napasun)
