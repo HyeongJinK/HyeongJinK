@@ -5,7 +5,7 @@
 <!--
 [경력](https://github.com/HyeongJinK/HyeongJinK/blob/master/career.md)
 
-[깃블로그](https://hyeongjink.github.io/)
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnapasun)](https://github.com/napasun)
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[깃블로그](https://hyeongjink.github.io/)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeongJinK&layout=compact&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=HyeongJinK&show_icons=true&theme=dracula)
 
