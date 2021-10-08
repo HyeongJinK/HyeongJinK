@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 -->
 
 * [about](https://nanpasun.notion.site/35fd41e490b6417cbd5a0bdb5179e9a2)
+* [경력기술서](https://nanpasun.notion.site/7395ef433ffa475c8093774ad390ac50)
 * [티스토리 블로그](https://napasun-programming.tistory.com/)
 
 
