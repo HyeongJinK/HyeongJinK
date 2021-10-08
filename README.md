@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* [깃블로그](https://hyeongjink.github.io/)
+* [about](https://nanpasun.notion.site/35fd41e490b6417cbd5a0bdb5179e9a2)
 * [티스토리 블로그](https://napasun-programming.tistory.com/)
 
 
