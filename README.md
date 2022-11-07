@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* [about](https://nanpasun.notion.site/35fd41e490b6417cbd5a0bdb5179e9a2)
+<!-- * [about](https://nanpasun.notion.site/35fd41e490b6417cbd5a0bdb5179e9a2)
 * [경력기술서](https://nanpasun.notion.site/7395ef433ffa475c8093774ad390ac50)
 * [티스토리 블로그](https://napasun-programming.tistory.com/)
-* [메모](https://nanpasun.notion.site/nanpasun/772f52ebd3fe43d2a512cffdffe88132)
+* [메모](https://nanpasun.notion.site/nanpasun/772f52ebd3fe43d2a512cffdffe88132) -->
+* [메모](https://HyeongJinK.github.io)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeongJinK&layout=compact&theme=dracula)
