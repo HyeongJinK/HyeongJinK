@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeongJinK&layout=compact&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api?username=HyeongJinK&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=HyeongJinK&show_icons=true&theme=dracula&locale=kr)
 
 <!-- ![java](https://img.shields.io/badge/java-%EC%9A%B0%EC%99%95-red?logo=java) -->
