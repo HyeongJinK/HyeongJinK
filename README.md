@@ -35,3 +35,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=HyeongJinK&show_icons=true&theme=dracula&locale=kr)
 
 <!-- ![java](https://img.shields.io/badge/java-%EC%9A%B0%EC%99%95-red?logo=java) -->
+
+
+[![gitanimals](https://render.gitanimals.org/farms/HyeongJinK)](https://github.com/devxb/gitanimals)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/HyeongJinK?pet-id=1" width="1000" height="120"/>
+</a>
