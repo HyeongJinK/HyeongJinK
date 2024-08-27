@@ -37,4 +37,9 @@ Here are some ideas to get you started:
 <!-- ![java](https://img.shields.io/badge/java-%EC%9A%B0%EC%99%95-red?logo=java) -->
 
 
-[![gitanimals](https://render.gitanimals.org/farms/HyeongJinK)](https://github.com/devxb/gitanimals)
+<img
+  src="https://render.gitanimals.org/farms/HyeongJinK"
+  width="600"
+  height="300"
+/>
+
