@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://tr-app-public.s3.ap-northeast-2.amazonaws.com/aiexe/exe/1.0.0/main.exe
+
 
 <!--
 [경력](https://github.com/HyeongJinK/HyeongJinK/blob/master/career.md)
